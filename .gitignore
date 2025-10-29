@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+TestResult*
+*.coverage*
+*.nupkg
+.nuget/
+artifacts/
+ReSharper*/ 
+*.DotSettings.user
